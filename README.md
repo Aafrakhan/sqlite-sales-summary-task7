@@ -1,4 +1,4 @@
-# Task 7: Basic Sales Summary from a Tiny SQLite Database using Python
+# Basic Sales Summary from a Tiny SQLite Database using Python
 
 ## Objective
 Use SQL inside Python to pull simple sales info (total quantity sold, total revenue) from a small SQLite database, and display it using print statements and a bar chart.
