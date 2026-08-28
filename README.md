@@ -28,9 +28,3 @@ Use SQL inside Python to pull simple sales info (total quantity sold, total reve
 | Notebook | 27 | $67.5 |
 | Pen | 70 | $52.5 |
 
-## Files in this Repo
-- sales_summary_task7.ipynb — Jupyter notebook with all code and output
-- sales_data.db — the SQLite database
-- sales_chart.png — bar chart of revenue by product
-- README.md — this file
-
